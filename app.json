@@ -16,12 +16,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "27201175",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "f9fcd5bc0af204efdb06219b5c668fc1",
         "required": true
       },
       "BOT_TOKEN": {
@@ -41,17 +41,17 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "7552579717",
         "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "https://t.me/AloneUpdates",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "https://t.me/AloneXSupport",
         "required": true
       },
       "STRING_SESSIONS": {
@@ -71,12 +71,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001603822916",
         "required": true
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TheTeamVivek/YukkiMusic",
+        "value": "https://github.com/TheHamkerAlone/YukkiMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
